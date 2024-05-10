@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963542008333",
+    "project_id": "telegram-exomind",
+    "storage_bucket": "telegram-exomind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963542008333:android:649c5f414db2950788cb44",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqASZ_6NuVZWpYgNhMI-AvJpUdb0af4tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963542008333:android:cbb100a0e9bdc4cd88cb44",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqASZ_6NuVZWpYgNhMI-AvJpUdb0af4tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
